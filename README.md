@@ -13,7 +13,7 @@ See the sample results page below that shows sitelink-generated links for EDGAR 
 Add sitelink_generator to your `Gemfile` and `bundle install`:
 
 ```ruby
-gem 'sitelink_generator', :git => 'https://github.com/eigenpath/sitelink_generator.git'
+gem 'sitelink_generator'
 ```
 
 ## Available Generators
@@ -41,4 +41,4 @@ SitelinkGenerator::SecEdgar.generate url
 
 ## Feedback
 
-If you think you found a bug in SitelinkGenerator, you can [submit an issue](https://github.com/eigenpath/sitelink_generator/issues/new).
+If you think you found a bug in SitelinkGenerator, you can [submit an issue](https://github.com/GSA/sitelink_generator/issues/new).
