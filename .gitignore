@@ -1,0 +1,7 @@
+*.gem
+*.swp
+.DS_Store
+.bundle
+.idea
+coverage/
+tmp/
