@@ -1,0 +1,13 @@
+name: 'Sitelink Generator'
+description: 'For generating links to additional relevant content within a website, to be displayed next to a given item on a DigitalGov Search results page'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - search
+    - website
+    - links
+contact:
+    email: dawn.mccleskey@gsa.gov
