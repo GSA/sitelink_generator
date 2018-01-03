@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.files = %w(CONTRIBUTING.md LICENSE.md README.md sitelink_generator.gemspec)
   s.files += Dir['lib/**/*.rb']
   s.files += Dir['lib/**/*.yml']
-  s.homepage = 'http://search.digitalgov.gov'
+  s.homepage = 'https://search.gov'
   s.license = 'MIT'
   s.name = 'sitelink_generator'
   s.required_ruby_version = '~> 2.1'

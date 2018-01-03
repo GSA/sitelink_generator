@@ -1,6 +1,6 @@
 # Sitelink Generator
 
-[DigitalGov Search](http://search.digitalgov.gov) powers the search box on 1,500 government websites. 
+[Search.gov](https://search.gov) powers the search box on 1,500 government websites. 
 
 This sitelink generator "decorates" organic web results to provide additional, value-added links to help searchers find what they're looking for.
 
