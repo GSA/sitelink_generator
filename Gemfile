@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'activesupport', '~> 5.1.0'
+gem 'activesupport', '~> 5.2.4'
 gem 'i18n'
 gem 'rake'
 
